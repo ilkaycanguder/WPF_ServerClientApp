@@ -1,4 +1,4 @@
-# WPF_ServerClientApp
+# WPF ServerClientApp
 
 ## About
 Multi-server-client application developed using C# and WPF. Synchronizes a lamp and a text field between the server and client.
